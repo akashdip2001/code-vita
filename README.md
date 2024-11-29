@@ -50,7 +50,7 @@ if __name__ == "__main__":
 
 ![Screenshot_30-11-2024_03059_codevita tcsapps com](https://github.com/user-attachments/assets/53f91d7f-b47a-468c-aa9a-a3f675da0d9a)
 
-```python
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -119,7 +119,7 @@ int main() {
 
 ![Screenshot_30-11-2024_03412_codevita tcsapps com](https://github.com/user-attachments/assets/a3b43664-8882-4018-afa0-2489e01a246b)
 
-```python
+```cpp
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -245,7 +245,7 @@ int main() {
 
 ![Screenshot_30-11-2024_03519_codevita tcsapps com](https://github.com/user-attachments/assets/0f187d33-c1aa-4b46-bfd1-877a4479698d)
 
-```python
+```cpp
 #include <iostream>
 #include <vector>
 #include <queue>
