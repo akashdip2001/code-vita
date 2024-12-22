@@ -342,7 +342,7 @@ int main() {
 
 ![Screenshot_30-11-2024_03612_codevita tcsapps com](https://github.com/user-attachments/assets/20123352-1446-4ca4-b675-44aa45b9b16b)
 
-| [Link](https://github.com/Triggered41/Codevita-Q) |
+| 🌀 [answer Link](https://github.com/Triggered41/Codevita-Q) |
 | --- |
 
 ![Screenshot_30-11-2024_03655_codevita tcsapps com](https://github.com/user-attachments/assets/ac79fd97-fea7-481e-b40b-43bb27fbf771)
